@@ -4,10 +4,6 @@ Diese Plugins werden NICHT mehr geupdatet, da ich nicht mehr an ihnen Arbeiten m
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-
 
 - Aktuelle Modis FarmBattle, PlazeBattle, LuckPVP, GlasWars, FFA, SuperFFA, PVP, Lobby Gadget, Verstecken, LuckyBlock, Admin Shop, Ein & Ausloggen Messages für den TeamChat, MOTD und Automessages, Modi Beschreibungen (14)
 
