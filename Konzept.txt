@@ -1,0 +1,206 @@
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Spigotcraft ist ein Minecraft-Netzwerk, das auf Minigame & Survival Spielmodis basiert.
+Ein sehr großer Teil des Systems wurde von uns selbst Programmiert, und wir arbeiten stätig daran unser Server Konzept zu verbessern und suchen deshalb immer nach Teammitgliedern die uns dabei unter die Arme greifen könnten.
+Wir versuchen mit unserem Spielmodis möglichst viel Spielspaß zu bieten, und bemühen uns eine kleine Spieler Community aufzubauen, und diese mit unserem Netzwerk zu "befriedigen".
+Aktuell bestehen wir aus einem kleinen Team, und suchen nach Buildern, sowie aushilfe in der Moderation & dem Support. Falls du in einem dieser bereiche Erfahrung hast, bewerbe dich gerne bei uns!
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+• Willkommen auf Spigotcraft.de •
+
+
+Wir sind ein eigen Programmiertes kleines Netzwerk das dir Spaß bieten wird!
+Du bist auf der Suche nach einem Minecraft Survival Netzwerk mit einigen einzigartigen Spielmodis? Dann bist du bei uns genau richtig!
+
+Wir bieten einen einzigartigen 'Base' Spielmodus, der merkmale von Skyblock, sowie von Citybuild aufweist jedoch keiner dieser beiden Spielmodis ist, sondern eine eigenkreation von unserem Dev u. Contents ist. 
+In Base hast du die Möglichekeit eine Base aufzubauen, und mit einem Random Teleport in die Farmwelt oder mit simplem Handeln mit anderen Spielern dir Items zu verschaffen und damit deine kleine Base aufzubauen.
+Falls du Items für einen bestimmten Preis loswerden willst, aber gerade niemand Online, oder interessiert ist kannst du auch einfach das Auktionshaus nutzen und vielleicht kauft es jemand zu einem späteren Zeitpunkt. :)
+Außer Base besitzen wir einen Jump-And-Run Spielmodus namens 'Jumpy', indem man Coins (Die Währung unseres Servers) für Admin-Shops, Perks, das Auktionshaus, Deals zwischen anderen Spielr oder für eine vergrößerung deiner Base erspielen kann. Du hast aber auch die Möglichekeit mit Coins die du erlangst, in unserer Lobby einen Temporären Rang auf unserem Netzwerk zu kaufen, und von mehreren Vorteilen zu profitieren. 
+Falls du ein oder mehrere Probleme/Fragen haben solltest, besitzen wir ein Forum, sowie einen Discord über den man fast immer ein Teammitglied erreichen kann.
+Wir arbeiten stetig an unseren Spielmodis, und versuchen zusammen mit unserem Team immer neues zu bieten und damit den Spielspaß aufrecht zu halten. Vielleicht bringen wir in der Zukunft noch weitere Modis, wer weiß? 
+Dir gefällt was du bisher gelesen hast, dann verschwende nicht noch mehr Zeit, und schwing dich auf unseren Minecraft Server und versuch die Modis mal aus (bring am besten auch einen Freund mit, da es zu Zweit (oder mehr) natürlich nocht mehr Spaß bietet).
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Quests für Base (einen gewissen zusammenhang)
+
+Cooldown 5 Minuten?
+
+Anfang : "Ich muss mein Haus neu aufbauen, und brauche deine Hilfe!"
+Quest  :  Beschaffe 23 Eichenholz
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang : "An meinem neuen Haus fehlen noch die Fenster, kannst du mir welche bringen?"
+Quest  :  Beschaffe 9 Fensterscheiben
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang : "Ich habe es satt auf dem Boden zu schlafen! Kannst du mir ein Bett bringen?"
+Quest  :  Beschaffe 1 Bett
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang : "Jetzt habe ich es zwar bequem, aber es ist sehr Dunkel in meinem Haus.."
+Quest  :  Beschaffe 4 Fackeln
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang : "Ich habe vor kurzem einen Zauberer kennen gelernt, und möchte ihm bei einer seiner Erfindungen helfen. Ihm fehlt Eisen."
+Quest  :  Beschaffe 13 Eisen
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang : "
+Quest  :  
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang : "Es ist etwas passiert! Dem Zauberer vom letzten mal ist ein malör passiert, und er muss mit seiner Erfindung von vorne beginnen!"
+Quest  :  Beschaffe 15 Eisen
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang :
+Quest  :
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang :
+Quest  :
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+Anfang : "Der Zauberer hat seine neue Erfindung fertig gestellt, und kann aus Bruchstein Eisen extrahieren! Wir müssen das mal ausprobieren!"
+Quest  :  Beschaffe 64 Bruchstein
+Beendet: "Vielen Dank! Melde dich bald wieder bei mir, und ich gebe dir eine weitere Aufgabe!"
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+Admin Shop (Base)
+
+Baumaterialien: Eichenholzbretter 32 (50 Coins) 
+				Fichtenholzbretter 32 (50 Coins) 
+				Birkenholzbretter 32 (50 Coins) 
+				Tropenholzbretter 32 (50 Coins) 
+				Schwarzeichenholzbretter 32 (50 Coins)
+				Karmesinbretter 32 (125 Coins) 
+				Wirrbretter 32 (125 Coins) 
+				Eichenholz 32 (200 Coins) 
+				Fichtenholz 32 (200 Coins) 
+				Birkenholz 32 (200 Coins) 
+				Tropenholz 32 (200 Coins) 
+				Schwarzeichenholz (200 Coins) 
+				Karmesinstiel 32 (250 Coins) 
+				Wirrstiel 32 (250 Coins) 
+				Stone 32 (20 Coins) 
+				Bruchstein 32 (10 Coins) 
+				Granit 32 (20 Coins) 
+				Diorit 32 (20 Coins) 
+				Andesit 32 (20 Coins) 
+				Bruchtiefenschiefer 32 (20 Coins) 
+				Grasblock 32 (10 Coins) 
+				Grobe Erde 32 (15 Coins) 
+				Podsol 32 (15 Coins) 
+				Wurzelerde 32 (15 Coins) 
+				Karmesin-Nezel 32 (30 Coins) 
+				Sand 32 (20 Coins)
+				Roter Sand 32 (25 Coins) 
+				Kies 32 (20 Coins)
+				
+Nahrung:        Apfel 16 (20 Coins)
+                Brot 16 (20 Coins)
+                Rohes Schweinefleisch 16 (30 Coins)
+                Gebratenes Schweinefleisch 16 (50 Coins)
+				Roher Kabeljau 16 (25 Coins)
+				Gebratener Kabeljau 16 (35 Coins)
+				Roher Lachs 16 (25 Coins)
+				Gebratener Lachs 16 (35 Coins)
+				Kuchen 1 (50 Coins)
+				Melonen 32 (35 Coins)
+				Rohes Rindfleisch 16 (30 Coins)
+				Gebratenes Rindfleisch 16 (50 Coins)
+				Rohes Hühnchen 16 (25 Coins)
+				Gebratenes Hühnchen 16 (35 Coins)
+				Karotte 16 (30 Coins)
+				Rohe Kartoffel 16 (30 Coins)
+				Ofenkartoffel 16 (40 Coins)
+				Rohes Kaninchen 16 (30 Coins)
+				Gebratenes Kaninchen 16 (40 Coins)
+				Rohes Hammelfleisch 16 (30 Coins)
+				Gebratenes Hammelfleisch 16 (50 Coins)
+				Rote Bete 32 (35 Coins)
+				Süßbeeren 16 (50 Coins)
+				
+Rohstoffe:      Kohle 32 (125 Coins)
+				Holzkohle 32 (125 Coins)
+				Roheisen 16 (210 Coins)
+				Eisenbarren 16 (225 Coins)
+				Rohkupfer 16 (200 Coins)
+				Kupferbarren 16 (220 Coins)
+			    Rohgold 16 (255 Coins)
+                Goldbarren 16 (275 Coins)
+				Lapis 16 (350 Coins)
+				Redstone 16 (250 Coins)
+				Diamant 8 (1500 Coins
+				Smaragd 8 (1500 Coins)
+				
+Pflanzen:       Eichensetzling 4 (35 Coins)
+				Fichtensetzling 4 (35 Coins)
+				Birkensezling 4 (35 Coins)
+				Tropenbaumsetzling 4 (45 Coins)
+			    Akaziensetzling 4 (35 Coins)
+				Schwarzeichensetzling 4 (45 Coins)
+				Löwenzahn 2 (15 Coins)
+				Mohn 2 (15 Coins)
+				Blaue Orchiedee 2 (25 Coins)
+				Sternlauch 2 (20 Coins)
+				Porzellansternchen 2 (25 Coins)
+				Rote Tulpe 2 (25 Coins)
+				Orange Tulpe 2 (25 Coins)
+				Weiße Tulpe 2 (25 Coins)
+				Rosa Tulpe 2 (25 Coins)
+				Margerite 2 (25 Coins)
+				Kornblume 2 (25 Coins)
+				Sonnenblume 2 (30 Coins)
+				Flieder 2 (30 Coins) 
+				Rosenstrauch 2 (30 Coins)
+				Pfingstrose 2 (30 Coins)
+				Hohes Gras 2 (15 Coins)
+				Großer Farn 2 (30 Coins)
+				
+----------------------------------------------------------------------------------------------------------------------------------------------
+				
+Perks (Base)
+
+Kein Hunger:    Item: Steak
+	  - Kostet: 35.000 (25% Chance in Crate)
+      - Bewirkt:Man verliert keinen Hunger 
+				
+Regeration:     Item: Regerations Trank
+	  - Kostet: 65.000 (17% Chance in Crate)
+      - Bewirkt:Dauerhaft Regeration I 
+				
+Night Vision:   Item: Fackel
+	  - Kostet: 30.000 (30% Chance in Crate)
+      - Bewirkt:Dauerhaft Night Vision 
+				
+Eile:           Item: Gold-Spitzhacke
+	  - Kostet: 40.000 (20% Chance in Crate)
+      - Bewirkt:Dauerhaft Haste I (Eile I)
+	  
+Speed:   Item: ?
+	  - Kostet: 30.000 (30% Chance in Mystery Crate)
+      - Bewirkt:Dauerhaft Schnelligkeit I
+	  
+Keinen Fallschaden:  Item: Verzauberte Eisenschuhe
+	  - Kostet: 15.000 (40% Chance in Crate)
+      - Bewirkt:Keinen Fallschaden in der Farmwelt
+	  
+Feuerresistent:   Item: Lava Eimer
+	  - Kostet: 25.000 (20% Chance in Crate)
+      - Bewirkt:Dauerhaft Fire resistent 
+	  
+Unendlich Luftblasen:   Item: Schildkrötenpanzer
+	  - Kostet: 50.000 (16% Chance in Crate)
+      - Bewirkt:Unterwasser unendliche Luftblasen 
+	  
+DoppelteXP:   Item: Erfahrugsflächen
+	  - Kostet: 50.000 (12% Chance in Crate)
+      - Bewirkt:DoppelteXP halt :D
+	  
+----------------------------------------------------------------------------------------------------------------------------------------------
+	
